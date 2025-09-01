@@ -1,4 +1,9 @@
 # Application for DNA sequence analysis
+- [Intended Purpose](#Intended_Purpose)
+- [Run the application](#Run_the_application)
+- [Use Cases](#Use_Cases)
+- [Thinks to be considered when running the application](#Thinks_to_be_considered_when_running_the_application)
+
 
 ## Intended Purpose
 This DNA sequence analysis application is a tool that is designed for processing DNA sequences to be further used for 
@@ -34,6 +39,10 @@ The user should follow the steps below in order to run the application.
 2. Then the user can select the format type and input the DNA sequence following the prompts and conduct the 
 desired analysis.
 
+
+
+
+## Use Cases
 ### Example case 1:
 The example below provides a step-by-step guidance to help the user use the application when analysing a FASTA formatted 
 sequence. The example sequence will be used for this case can be found in the fasta_sequence.txt and is the DNA sequence
@@ -175,7 +184,8 @@ however, this was not the indented purpose. The purpose was to check the quality
 the user proceed of the sequence is not valid.
 
 ### Conclusion
-This completes the testng of the DNA sequence analysis application.
+This completes the testing of the DNA sequence analysis application.
+
 
 
 
