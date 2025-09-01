@@ -177,6 +177,5 @@ the user proceed of the sequence is not valid.
 ### Conclusion
 This completes the testng of the DNA sequence analysis application.
 
-Please find the URL link of my repository to assess the version control: 
-https://github.com/newcastleuniversity-computing/csc8330_b9039290
+
 
