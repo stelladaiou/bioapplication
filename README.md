@@ -1,9 +1,5 @@
 # Application for DNA sequence analysis
 
-### csc8330 - Advanced Programming for Digital Biology
-Coursework\
-Student No:190392907
-
 ## Intended Purpose
 This DNA sequence analysis application is a tool that is designed for processing DNA sequences to be further used for 
 research analysis. Its functionality enables to input the DNA sequence in multiples formats, plain text or FASTA and 
@@ -183,3 +179,4 @@ This completes the testng of the DNA sequence analysis application.
 
 Please find the URL link of my repository to assess the version control: 
 https://github.com/newcastleuniversity-computing/csc8330_b9039290
+
